@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d978722-e377-4176-b69b-cc3d6fd9762c": {
+      "ProjectGuid": "1d978722-e377-4176-b69b-cc3d6fd9762c",
+      "DisplayName": "AngularMoviesApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
